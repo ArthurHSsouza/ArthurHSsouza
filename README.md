@@ -2,7 +2,7 @@
 
  - 🌱 I’m currently learning 
    
-    -JavaScript
+    - JavaScript
     - Node.js
     - Java
         
