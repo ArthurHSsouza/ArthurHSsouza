@@ -16,7 +16,7 @@
 - ⚡ Fun fact: I probably never ate avocado
 
 
-- Frameworks
+- Languages
 
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/css3.png?raw=true "Optional Title")
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/html.png?raw=true "Optional Title")
