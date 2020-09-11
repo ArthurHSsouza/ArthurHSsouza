@@ -21,7 +21,6 @@
    - ![Alt text](/bootstrap.png?raw=true "Optional Title")
    - ![Alt text](/css3.png?raw=true "Optional Title")
    - ![Alt text](/html.png?raw=true "Optional Title")
-   - ![Alt text](/css3.png?raw=true "Optional Title")
    - ![Alt text](/js.png?raw=true "Optional Title")
    - ![Alt text](/nodejs.png?raw=true "Optional Title")
    
