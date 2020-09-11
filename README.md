@@ -18,11 +18,11 @@
 
 - Frameworks
 
-   - ![Alt text](/bootstrap@3x.png?raw=true "Optional Title")
-   - ![Alt text](/css3@3x.png?raw=true "Optional Title")
-   - ![Alt text](/html@3x.png?raw=true "Optional Title")
-   - ![Alt text](/js@3x.png?raw=true "Optional Title")
-   - ![Alt text](/nodejs@3x.png?raw=true "Optional Title")
+   - ![Alt text](/relative/path/to/bootstrap@3x.png?raw=true "Optional Title")
+   - ![Alt text](/relative/path/to/css3@3x.png?raw=true "Optional Title")
+   - ![Alt text](/relative/path/to/html@3x.png?raw=true "Optional Title")
+   - ![Alt text](/relative/path/to/js@3x.png?raw=true "Optional Title")
+   - ![Alt text](/relative/path/to/nodejs@3x.png?raw=true "Optional Title")
    
    
    
