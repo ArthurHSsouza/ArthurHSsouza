@@ -32,6 +32,11 @@
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/bootstrap.png?raw=true "Optional Title")
    
    
+- My interests in programming
+
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/ia.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/web.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/mobile.png?raw=true "Optional Title")
    
    
   
