@@ -16,7 +16,7 @@
 - ⚡ Fun fact: i probably never ate avocado
 
 
-/github/followers/:ArthurHSsouza?label=Follow
+
 
 
 
