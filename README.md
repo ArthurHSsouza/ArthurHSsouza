@@ -15,5 +15,5 @@
 - 😄 Pronouns: he
 - ⚡ Fun fact: i probably never ate avocado
 
-	/github/stars/:ArthurHSsouza/:repo?style=social
+
 
