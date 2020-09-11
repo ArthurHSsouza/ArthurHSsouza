@@ -13,12 +13,12 @@
 - 📫 How to reach me: 
       Linkedin: https://www.linkedin.com/in/arthur-souza-434976172/
 - 😄 Pronouns: he
-- ⚡ Fun fact: i probably never ate avocado
+- ⚡ Fun fact: I probably never ate avocado
 
 
 - Frameworks
 
-   - ![Alt text](/ArthurHSsouza/bootstrap@3x.png?raw=true "Optional Title")
+   - ![Alt text](ArthurHSsouza/bootstrap@3x.png?raw=true "Optional Title")
    - ![Alt text](/relative/path/to/css3@3x.png?raw=true "Optional Title")
    - ![Alt text](/relative/path/to/html@3x.png?raw=true "Optional Title")
    - ![Alt text](/relative/path/to/js@3x.png?raw=true "Optional Title")
