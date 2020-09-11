@@ -19,10 +19,10 @@
 - Frameworks
 
    - ![Alt text](/bootstrap@3x.png?raw=true "Optional Title")
-   - ![Alt text](/css3@x3.png?raw=true "Optional Title")
-   - ![Alt text](/html@x3.png?raw=true "Optional Title")
-   - ![Alt text](/js@x3.png?raw=true "Optional Title")
-   - ![Alt text](/nodejs@x3.png?raw=true "Optional Title")
+   - ![Alt text](/css3@3x.png?raw=true "Optional Title")
+   - ![Alt text](/html@3x.png?raw=true "Optional Title")
+   - ![Alt text](/js@3x.png?raw=true "Optional Title")
+   - ![Alt text](/nodejs@3x.png?raw=true "Optional Title")
    
    
    
