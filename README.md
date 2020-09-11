@@ -19,10 +19,10 @@
 - Frameworks
 
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/bootstrap%403x.png?raw=true "Optional Title")
-   - ![Alt text](/relative/path/to/css3@3x.png?raw=true "Optional Title")
-   - ![Alt text](/relative/path/to/html@3x.png?raw=true "Optional Title")
-   - ![Alt text](/relative/path/to/js@3x.png?raw=true "Optional Title")
-   - ![Alt text](/relative/path/to/nodejs@3x.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/css3%403x.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/html%403x.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/js%403x.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/nodejs%403x.png?raw=true "Optional Title")
    
    
    
