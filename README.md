@@ -1,5 +1,7 @@
 ### Hi there, My name is Arthur Hernandes 😁👋
 
+#### I am a young developer and student in love with new tecnologies, and I always like to discover new things and code in my free time.
+
  - 🌱 I’m currently learning 
    
     - JavaScript
