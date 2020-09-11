@@ -18,9 +18,9 @@
 
 - Frameworks
 
-  - ![Alt text](/bootstrap@3x.png?raw=true "Optional Title")
-  -
-  -
+   ![Alt text](/bootstrap.png?raw=true "Optional Title")
+   
+  
 
 
 
