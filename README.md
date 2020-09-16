@@ -10,11 +10,10 @@
       - JavaScript
       - Node.js
       - Java
+      - Python
         
    - 📫 How to reach me: 
       Linkedin: https://www.linkedin.com/in/arthur-souza-434976172/
-   - 😄 Pronouns: He/Him
-   - ⚡ Fun fact: I probably never ate avocado
 
 
 - Languages
