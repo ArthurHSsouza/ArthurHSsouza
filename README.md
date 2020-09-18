@@ -26,7 +26,6 @@
    
 - Frameworks 
 
-   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/nodejs.png?raw=true "Optional Title")
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/react.png?raw=true "Optional Title")
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/bootstrap.png?raw=true "Optional Title")
    
