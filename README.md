@@ -22,7 +22,6 @@
 - Most used tools
 
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/visualstudio_code.png?raw=true "Optional Title")
-   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/visualstudio.png?raw=true "Optional Title")
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/powershell.png?raw=true "Optional Title")
    
     
