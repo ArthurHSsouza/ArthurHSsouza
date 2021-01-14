@@ -1,4 +1,4 @@
-###How to reach me
+#How to reach me
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-souza-434976172/)](https://www.linkedin.com/in/arthur-souza-434976172/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:g.ahss1980@gmail.com)](mailto:g.ahss1980@gmail.com) 
