@@ -7,21 +7,10 @@
    
       - JavaScript
       - Node.js
-      - Java
- 
-        
-   -  How to reach me: 
-      Linkedin: https://www.linkedin.com/in/arthur-souza-434976172/
-
 
 - Languages
 
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/js.png?raw=true "Optional Title")
-   
-- Frameworks 
-
-   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/react.png?raw=true "Optional Title")
-   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/bootstrap.png?raw=true "Optional Title")
    
    
 - My interests in programming
