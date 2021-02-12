@@ -5,6 +5,7 @@
 
    -  I’m currently learning 
    
+      - Java
       - JavaScript
       - Node.js
 
