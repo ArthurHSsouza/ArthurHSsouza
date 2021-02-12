@@ -12,6 +12,7 @@
 - Languages
 
    - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/js.png?raw=true "Optional Title")
+   - ![Alt text](https://github.com/ArthurHSsouza/ArthurHSsouza/blob/master/java.png?raw=true "Optional Title")
    
    
 - My interests in programming
